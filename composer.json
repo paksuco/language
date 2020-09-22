@@ -20,6 +20,7 @@
     "illuminate/support": "^7.0",
     "illuminate/config": "^7.0",
     "illuminate/routing": "^7.0",
+    "illuminate/translation": "^7.0",
     "livewire/livewire": "^1.2"
   },
   "require-dev": {
